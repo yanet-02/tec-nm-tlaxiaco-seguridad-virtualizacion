@@ -22,7 +22,8 @@ Identifica cuáles de los siguientes elementos son componentes fundamentales de 
 
 Pregunta Abierta:<br>
 Explica la función de un router en una red y cómo se diferencia de un switch.<br>
-___Respuesta___Un router es un dispositivo que se encarga de dirigir el tráfico de datos entre diferentes redes. Su principal función es encontrar la mejor ruta para enviar los paquetes de datos a su destino, incluso si deben atravesar múltiples redes. A diferencia de un switch, que opera a nivel de capa 2 (enlace de datos) conectando dispositivos dentro de una misma red local, el router opera en la capa 3 (red) y conecta diferentes redes entre sí.
+___Respuesta___
+Un router es un dispositivo que se encarga de dirigir el tráfico de datos entre diferentes redes. Su principal función es encontrar la mejor ruta para enviar los paquetes de datos a su destino, incluso si deben atravesar múltiples redes. A diferencia de un switch, que opera a nivel de capa 2 (enlace de datos) conectando dispositivos dentro de una misma red local, el router opera en la capa 3 (red) y conecta diferentes redes entre sí.
 
 Pregunta de Emparejamiento:<br>
 Relaciona los siguientes componentes de una red con su función principal:<br>
@@ -43,16 +44,19 @@ TCP/IP es un protocolo que se utiliza exclusivamente para redes privadas, como l
 - [X] Falso
 
 Justifique su respuesta.<br>
-___Respuesta___Falso. TCP/IP es un conjunto de protocolos utilizado para la comunicación en redes tanto privadas como públicas, incluyendo Internet. Es el estándar para la transmisión de datos en una red, permitiendo que dispositivos de diferentes tipos se comuniquen entre sí.
+___Respuesta___
+Falso. TCP/IP es un conjunto de protocolos utilizado para la comunicación en redes tanto privadas como públicas, incluyendo Internet. Es el estándar para la transmisión de datos en una red, permitiendo que dispositivos de diferentes tipos se comuniquen entre sí.
 
 Pregunta Abierta:<br>
 Describe las diferencias clave entre TCP y UDP en términos de fiabilidad y uso.<br>
-___Respuesta___TCP es más fiable, asegurando la entrega ordenada de datos y corrigiendo errores. UDP es más rápido pero menos fiable, no garantiza la entrega ni el orden. TCP se usa en aplicaciones donde la fiabilidad es esencial, mientras que UDP se prefiere para transmisiones rápidas como video en tiempo real.
+___Respuesta___
+TCP es más fiable, asegurando la entrega ordenada de datos y corrigiendo errores. UDP es más rápido pero menos fiable, no garantiza la entrega ni el orden. TCP se usa en aplicaciones donde la fiabilidad es esencial, mientras que UDP se prefiere para transmisiones rápidas como video en tiempo real.
 
 Pregunta de Desarrollo:<br>
 Explica cómo se utilizan las direcciones IP y las máscaras de subred en el protocolo TCP/IP para enrutar datos a través de una red.<br>
 
-___Respuesta___En el protocolo TCP/IP, las direcciones IP identifican de manera única a los dispositivos en una red y se utilizan para dirigir los paquetes de datos al destino correcto. La máscara de subred divide una dirección IP en dos partes: la parte de la red y la parte del host. Esto permite a los routers determinar en qué subred está un dispositivo y a dónde deben enviar los paquetes. Si el destino está en la misma subred, el paquete se entrega directamente. Si está en otra subred, el paquete se envía a través de un router para llegar a la red correcta.
+___Respuesta___
+En el protocolo TCP/IP, las direcciones IP identifican de manera única a los dispositivos en una red y se utilizan para dirigir los paquetes de datos al destino correcto. La máscara de subred divide una dirección IP en dos partes: la parte de la red y la parte del host. Esto permite a los routers determinar en qué subred está un dispositivo y a dónde deben enviar los paquetes. Si el destino está en la misma subred, el paquete se entrega directamente. Si está en otra subred, el paquete se envía a través de un router para llegar a la red correcta.
 
 ## Sección 3: Normas y Estándares de la Industria (10%)
 
@@ -67,7 +71,8 @@ Pregunta de Selección Múltiple:<br>
 Pregunta de Desarrollo:<br>
 Explica la importancia de seguir normas y estándares de la industria al diseñar redes en una organización. Proporcione ejemplos de dos normas específicas.<br>
 
-___Respuesta___Seguir normas y estándares de la industria al diseñar redes es fundamental para garantizar la compatibilidad, la interoperabilidad y la seguridad de los sistemas de comunicación. Estas normas aseguran que los dispositivos y software de diferentes fabricantes funcionen juntos sin problemas, lo que facilita la expansión y el mantenimiento de la red. Por ejemplo, el estándar IEEE 802.11 garantiza que diferentes dispositivos Wi-Fi puedan conectarse y comunicarse en una red inalámbrica. Otro ejemplo es el estándar IEEE 802.3, que regula la tecnología Ethernet, garantizando una comunicación eficiente y confiable en redes cableadas.
+___Respuesta___
+Seguir normas y estándares de la industria al diseñar redes es fundamental para garantizar la compatibilidad, la interoperabilidad y la seguridad de los sistemas de comunicación. Estas normas aseguran que los dispositivos y software de diferentes fabricantes funcionen juntos sin problemas, lo que facilita la expansión y el mantenimiento de la red. Por ejemplo, el estándar IEEE 802.11 garantiza que diferentes dispositivos Wi-Fi puedan conectarse y comunicarse en una red inalámbrica. Otro ejemplo es el estándar IEEE 802.3, que regula la tecnología Ethernet, garantizando una comunicación eficiente y confiable en redes cableadas.
 
 Pregunta de Análisis de Caso:<br>
 Una empresa está planeando la expansión de su red. Describe cómo aplicarías las normas y estándares de la industria para garantizar la compatibilidad y el rendimiento.<br>
