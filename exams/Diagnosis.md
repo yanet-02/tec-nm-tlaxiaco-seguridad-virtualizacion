@@ -1,11 +1,8 @@
 # Evaluación de Redes y Sistemas Operativos
 
-| Nombre: | Fecha: | Matrícula: |
-|---------|--------|------------|
-|         |        |            |
-Nombre: Yanet González García
-Fecha: 22/08/2024
-Matrícula: 21620273
+|         Nombre:         |   Fecha:    | Matrícula: |
+|-------------------------|-------------|------------|
+| Yanet González García   | 22/08/2024  | 21620273   |
 
 ## Instrucciones
 
